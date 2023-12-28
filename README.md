@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasanth
 - 👀 I’m interested in Machine Learning, Technology, Softwares and so on...
-- 🌱 I’m currently pursuing B.Tech in Computer Science at GVPCE(A)
+- 🌱 I’m a B.Tech Undergrad in Computer Science from GVPCE(A)
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me ? Add me on your linkedin https://www.linkedin.com/in/prasanth-pedaprolu/
 

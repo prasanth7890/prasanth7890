@@ -1,10 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth7890&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth7890" /> </p>
 
 ## Hi👋, I'm Prasanth
 
-A recent CS grad **passionate about building full-stack web apps 💻, exploring the world of Machine Learning , and automating workflows with DevOps ⚙️. Open to collaborating on projects!🤝**
+A recent CS Undergrad **passionate about building full-stack web apps 💻, exploring the world of Machine Learning , and automating workflows with DevOps ⚙️. Open to collaborating on projects!🤝**
 
-<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxN29ncGw0MDNveGxrMHczcWVhYTh4aWh6bjA1bzhoYTNxbXozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" />
+<img align="right" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxN29ncGw0MDNveGxrMHczcWVhYTh4aWh6bjA1bzhoYTNxbXozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" />
 
 
 <h3 align="left">Connect with me:</h3>
@@ -18,5 +17,8 @@ A recent CS grad **passionate about building full-stack web apps 💻, exploring
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanth7890&show_icons=true&locale=en&layout=compact" alt="prasanth7890" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanth7890&show_icons=true&locale=en" alt="prasanth7890" /></p>
+<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=prasanth7890&show_icons=true&locale=en" alt="prasanth7890" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanth7890&label=Profile%20views&color=0e75b6&style=flat" alt="prasanth7890" /> </p>
+
 

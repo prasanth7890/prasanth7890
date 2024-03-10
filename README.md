@@ -1,9 +1,9 @@
 
 ## Hi👋, I'm Prasanth
 
-A recent CS Undergrad **passionate about building full-stack web apps 💻, exploring the world of Machine Learning , and automating workflows with DevOps ⚙️. Open to collaborating on projects!🤝**
+**A recent Computer Science graduate with a passion for full-stack web development, exploring the fascinating realm of Machine Learning, and streamlining workflows through DevOps automation. Always eager to collaborate on exciting projects and expand my skillset through hands-on experience. Let's build something amazing together! 💻🤝**
 
-<img align="right" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxN29ncGw0MDNveGxrMHczcWVhYTh4aWh6bjA1bzhoYTNxbXozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" />
+<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxN29ncGw0MDNveGxrMHczcWVhYTh4aWh6bjA1bzhoYTNxbXozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRerwvHrb0nxm/giphy.gif" />
 
 
 <h3 align="left">Connect with me:</h3>
